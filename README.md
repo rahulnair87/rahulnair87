@@ -27,8 +27,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/rahulnair87/github-readme-stats"><img alt=“Rahul Nair’s Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahulnair87&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/rahulnair87/github-readme-stats"><img alt=“Rahul Nair’s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnair87&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/rahulnair87/github-readme-stats"><img alt=“Rahul Nair’s Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahulnair87&show_icons=true&count_private=true&count_public=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/rahulnair87/github-readme-stats"><img alt=“Rahul Nair’s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnair87&langs_count=8&count_private=true&count_public=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
