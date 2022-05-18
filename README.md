@@ -1,8 +1,8 @@
 <h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rahul Nair</h1>
 <h3 align="center">Tech Lead- QE</h3>
 
-- 🔭 I’m currently working as Tech lead - QE
-- 🌱 I’m currently learning JS, Devops
+- 🔭 I’m currently working as Tech lead - QE for an NFT MarketPlace
+- 🌱 I’m currently using JS, TS, Puppeteer 
 - 💬 Ask me about Software Testing, automation testing or tech related stuff.
 - 📫 How to reach me: [LinkedIn - @rahulnair](https://www.linkedin.com/in/rahul-nair-95698818/)
 
