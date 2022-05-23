@@ -45,9 +45,3 @@
 <a href = "https://www.linkedin.com/in/rahul-nair-95698818/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulnair87&show_icons=true&locale=en&layout=compact" alt="rahulnair87" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulnair87&show_icons=true&locale=en" alt="rahulnair87" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulnair87&" alt="rahulnair87" /></p>
-
